@@ -1,1 +1,2 @@
 this a sample project of devops and git
+for platform where it is used to see te status of the pull and push requests
